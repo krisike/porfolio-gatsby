@@ -6,7 +6,7 @@ For an overview of the project structure please refer to the [Gatsby documentati
 
 ![Screenshot](./src/assets/img/screenshot.jpg)
 
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-solidstate/)
+
 
 ## Screenshot
 
@@ -23,7 +23,7 @@ npm install --global gatsby-cli
 And run from your CLI:
 
 ```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-solidstate
+gatsby new <site-name> https://github.com/krisike/portfolio-gatsby
 ```
 
 Then you can run it by:
@@ -42,14 +42,14 @@ Edit `config.js` to put up your details
 module.exports = {
   siteTitle: 'Gatsby Starter solidstate', // <title>
   ...
-  heading: 'Anubhav',
+  heading: 'Krisi',
   subHeading: 'Web Developer',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/krisike',
     }
     ...
   ],
